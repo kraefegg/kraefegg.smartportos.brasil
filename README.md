@@ -127,5 +127,6 @@ MARITIME + ESG + DATA + INFRASTRUCTURE + AI
 ## Author
 
 Railson Arruda  
+LinkedIn: https://www.linkedin.com/in/railsonarruda-engineering/
 Environmental & Energy Engineer  
 Technical Advisor | ESG | Digital Infrastructure | Maritime Systems
