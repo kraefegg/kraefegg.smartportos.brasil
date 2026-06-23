@@ -91,6 +91,7 @@ https://smart-portos-brasil.base44.app
 ## Contact
 
 Railson Arruda  
+LinkedIn: https://www.linkedin.com/in/railsonarruda-engineering/
 Environmental & Energy Engineer  
 Technical Advisor | ESG | Digital Engineering | Maritime Systems
 
